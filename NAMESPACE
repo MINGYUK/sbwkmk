@@ -2,6 +2,7 @@
 
 export(estimate)
 export(sbw)
+export(sbw.ate)
 export(summarize)
 export(visualize)
 import(quadprog)
