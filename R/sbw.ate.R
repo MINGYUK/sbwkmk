@@ -1,4 +1,4 @@
-sbw.ate = function(
+sbwkmk.ate = function(
     Treatment_i,
     X,
     Y,
